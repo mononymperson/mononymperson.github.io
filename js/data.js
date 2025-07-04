@@ -34,30 +34,30 @@ const workHistory = [
 
 // Projects Data
 const projects = [
-  {
-    title: "Youtube Channel",
-    detail: {
-      description: `ASMR coding`,
-      images: [
-        "img/thumbnail-youtube.png",
-        "img/thumbnail-youtube-1.png",
-        "img/thumbnail-youtube-2.png",
-      ],
-      website: "https://www.youtube.com/@mononymperson",
-      stack: ["React", "NodeJS"],
-    },
-  },
+  // {
+  //   title: "Youtube Channel",
+  //   detail: {
+  //     description: `ASMR coding`,
+  //     images: [
+  //       "img/thumbnail-youtube.png",
+  //       "img/thumbnail-youtube-1.png",
+  //       "img/thumbnail-youtube-2.png",
+  //     ],
+  //     website: "https://www.youtube.com/@mononymperson",
+  //     stack: ["React", "NodeJS"],
+  //   },
+  // },
 
-  {
-    title: "Container Freight Station",
-    description: "Logistic app",
-    detail: {
-      description: `Container Freight Station (CFS) is a logistics facility that functions as a distribution and cargo handling center. CFS acts as a bridge between the port and the final destination to simplify logistics processes by unifying various activities including loading, storage and distribution of container cargo.`,
-      images: ["img/thumbnail-cfs.jpeg", "img/thumbnail-cfs-1.jpeg"],
-      website: "https://www.ipccfscenter.com/",
-      stack: ["MySQL", "Codeigniter", "JQuery"],
-    },
-  },
+  // {
+  //   title: "Container Freight Station",
+  //   description: "Logistic app",
+  //   detail: {
+  //     description: `Container Freight Station (CFS) is a logistics facility that functions as a distribution and cargo handling center. CFS acts as a bridge between the port and the final destination to simplify logistics processes by unifying various activities including loading, storage and distribution of container cargo.`,
+  //     images: ["img/thumbnail-cfs.jpeg", "img/thumbnail-cfs-1.jpeg"],
+  //     website: "https://www.ipccfscenter.com/",
+  //     stack: ["MySQL", "Codeigniter", "JQuery"],
+  //   },
+  // },
 
   {
     title: "Macros",
