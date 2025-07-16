@@ -68,6 +68,7 @@ const projects = [
         "img/thumbnail-rokerjob-1-2.jpeg",
         "img/thumbnail-rokerjob-1-3.jpeg",
         "img/thumbnail-rokerjob-1-4.jpeg",
+        "img/thumbnail-rokerjob-1-5.jpeg",
         "img/thumbnail-rokerjob-1.png",
         "img/thumbnail-rokerjob-2.png",
         "img/thumbnail-rokerjob-3.png",
@@ -77,7 +78,7 @@ const projects = [
             seafarers through the admin page and seafarers apply for jobs through the android
             application. Then admin manages crew data, such as cruise scheduling, etc.`,
       website: "https://macros.id",
-      stack: ["MySQL", "Laravel", "Vue", "Pusher"],
+      stack: ["MySQL", "Laravel", "Vue", "Pusher", "OneSignal"],
     },
   },
 ];
